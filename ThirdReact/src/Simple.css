@@ -1,0 +1,69 @@
+/* * {
+    box-sizing: border-box;
+  }
+  
+  div::before,
+  div::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: #ff6347;*/ /* Tomato color */
+    /* margin: 10px;
+  }
+
+  div::before {
+    float: left;
+  }
+  
+  div::after {
+    float: right;
+  } */
+
+  /* .confirm__div{
+    font-family: 'Poppins', sans-serif;;
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+  }
+
+  .confirm__button{
+     font-weight: bolder;
+     background-color: red;
+     border: none;
+     box-shadow: 1px 1px 8px #000;
+     border-radius: 25px;
+     padding: 10px 20px;
+     color: #fff;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .confirm__button:hover{
+    background-color: blue;
+    cursor: pointer;
+  }
+
+  html{
+    scroll-behavior: smooth;
+  } */
+
+/* // 2. */
+
+/* .nav__div{
+  display: flex;
+  justify-content: space-between;
+  gap:10px;
+  font-family: 'Courier New';
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+} */
+
+
+
+

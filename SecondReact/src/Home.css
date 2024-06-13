@@ -1,0 +1,57 @@
+.cont{
+  display: flex;
+  justify-content: center;
+}
+table {
+    width: 70%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    color: #333333;
+  }
+  
+  tr:hover {
+    background-color: #f5f5f5;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .container > div {
+    margin: 20px;
+  }
+  
+  .button1{
+    display: flex;
+    gap: 10px;
+  }
+
+.search-dropdown {
+  color: #fff;
+  background-color: #4e535784;
+  border-color: #6c70735a;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  height: 20px;
+  width:130px;
+}
+
+.search-dropdown:hover {
+  color: #fff;
+  background-color: #57595bdb;
+  border-color: #5b5f6330;
+  /* Add any additional styles for hover state */
+}

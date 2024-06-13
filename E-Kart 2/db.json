@@ -1,0 +1,16 @@
+{
+  "login": [
+    {
+      "name": "vino",
+      "email": "user",
+      "password": "root",
+      "id": "faa2"
+    },
+    {
+      "id": "7b3f",
+      "name": "gfgfg",
+      "email": "fas2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

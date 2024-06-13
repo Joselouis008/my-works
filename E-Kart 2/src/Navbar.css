@@ -1,0 +1,25 @@
+.cont-navbar{
+ display: flex;
+ justify-content: space-between;
+ background-color: cyan;
+ font-family: Poppins,sans-serif;
+}
+
+.cont-logo{
+    margin: 10px;
+}
+
+.cont-cart ul{
+    display: flex;   
+}
+
+.cont-cart li{
+    list-style: none;
+    margin: 10px;
+}
+
+.cont-cart a{
+    text-decoration: none;
+}
+
+
